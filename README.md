@@ -5,7 +5,7 @@
 <div style="text-align:center; margin-top: 30px;">
 
   <!-- Langages -->
-  <h2 style="color:#F7F7F7; margin-bottom: 15px;">💻 Langages</h2>
+  <h2 style="color:#F7F7F7; margin-bottom: 15px; gap:10px;">💻 Langages</h2>
   <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="height:50px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="height:50px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
@@ -13,7 +13,7 @@
   </div>
 
   <!-- Environnements & Outils -->
-  <h2 style="color:#F7F7F7; margin:30px 0 15px 0;">🛠️ Environnements & Outils</h2>
+  <h2 style="color:#F7F7F7; margin:30px gap:10px; 0 15px 0;">🛠️ Environnements & Outils</h2>
   <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" style="height:50px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" style="height:50px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
