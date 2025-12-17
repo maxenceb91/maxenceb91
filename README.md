@@ -15,7 +15,4 @@
 
 ## 📊 Statistiques GitHub
 
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=maxence91)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxence91&layout=compact)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=maxence91&show_icons=true)
