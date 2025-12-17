@@ -15,14 +15,7 @@
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=maxence91&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxence91&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maxence91&theme=tokyonight&hide_border=true"/>
 </p>
