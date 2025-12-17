@@ -1,5 +1,7 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Momo+Trust+Display&size=30&duration=3000&pause=500&color=F7F7F7&width=500&lines=Maxence" alt="Maxence">
 
+---
+
 ### 💻 Langages & Technologies
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" />
@@ -10,9 +12,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" />
 </p>
-
----
-
-## 📊 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=maxence91&show_icons=true)
