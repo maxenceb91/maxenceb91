@@ -16,5 +16,5 @@
 
 ## 📊 Stats :
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Notch&show_icons=true&theme=tokyonight)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxenceb91&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxenceb91&show_icons=true&theme=tokyonight)
