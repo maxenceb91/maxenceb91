@@ -11,5 +11,5 @@
 
 ## 🧠 IDE :
 
-- 🐍 **PyCharm**
-- ☕ **IntelliJ IDEA**
+![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-purple?logo=intellijidea&logoColor=white)
