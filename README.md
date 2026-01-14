@@ -11,5 +11,6 @@
 
 ## 🧠 IDE :
 
-![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green?logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-purple?logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-7A1FA2?style=for-the-badge&logo=intellijidea&logoColor=white)
+
