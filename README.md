@@ -9,11 +9,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-## 🧠 IDE :
+## 🧠 IDE's :
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-7A1FA2?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Statistiques :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxenceb91&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceb91&layout=compact&theme=tokyonight)
