@@ -14,3 +14,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-7A1FA2?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+## 📊 Stats :
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Notch&show_icons=true&theme=tokyonight)
