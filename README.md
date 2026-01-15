@@ -18,8 +18,3 @@
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-7A1FA2?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-## 📊 Statistiques :
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxenceb91&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceb91&layout=compact&theme=tokyonight)
