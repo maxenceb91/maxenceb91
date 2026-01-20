@@ -20,7 +20,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-7A1FA2?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 <!-- Statistiques GitHub générales -->
-![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=dark)
+![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=maxenceb91&show_icons=true&theme=dark)
 
 <!-- Top 3 langages utilisés -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceb91&layout=compact&theme=dark)
