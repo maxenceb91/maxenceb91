@@ -23,5 +23,3 @@
 | Stats GitHub | Langages |
 |-------------|----------|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=maxenceb91&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceb91&layout=compact&theme=dark) |
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxenceb91)
