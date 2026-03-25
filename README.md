@@ -36,4 +36,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=maxenceb91&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceb91&layout=compact&theme=dark"/>
+  ![Snake animation](https://github.com/maxenceb91/maxenceb91/blob/output/github-contribution-grid-snake.svg)
 </p>
