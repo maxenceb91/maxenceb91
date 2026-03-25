@@ -37,3 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maxenceb91&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceb91&layout=compact&theme=dark"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maxenceb91&color=blueviolet"/>
+</p>
