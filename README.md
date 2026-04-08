@@ -33,13 +33,3 @@
   <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-7A1FA2?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
-
-## 📊 Stats GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxenceb91&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxenceb91&layout=compact&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxenceb91&color=blueviolet"/>
-</p>
