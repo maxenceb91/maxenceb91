@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=FFFFFF&width=320&lines=Maxence 👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=FFFFFF&width=320&lines="Maxence 👋")
 
 # 💻 Technologies maîtrisées
 
