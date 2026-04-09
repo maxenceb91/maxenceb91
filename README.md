@@ -15,6 +15,7 @@
   <b>🚀 À venir :</b>
   <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D"/>
   <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
 ---
@@ -32,6 +33,7 @@
 
 <p align="left">
   <b>🚀 À venir :</b>
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/JCA-FF0000?style=flat&logo=java&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/>
